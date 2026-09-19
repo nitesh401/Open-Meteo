@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="UltimateRestHistory">
+    <items>
+      <historyItem>
+        <option name="timestamp" value="1789833638336" />
+        <request method="POST" url="http://localhost:8080/api/enrich">
+          <bodyContent>{&quot;location&quot;:&quot;hyderabad&quot;}</bodyContent>
+          <headers>
+            <param name="Content-Type" value=" application/json" type="HEADER" dataType="String" />
+          </headers>
+        </request>
+      </historyItem>
+      <historyItem>
+        <option name="timestamp" value="1789833623957" />
+        <request method="POST" url="http://localhost:8080/api/enrich">
+          <bodyContent>{&quot;location&quot;:&quot;Indore&quot;}</bodyContent>
+          <headers>
+            <param name="Content-Type" value=" application/json" type="HEADER" dataType="String" />
+          </headers>
+        </request>
+      </historyItem>
+      <historyItem>
+        <option name="timestamp" value="1789833611447" />
+        <request method="POST" url="http://localhost:8080/api/enrich">
+          <bodyContent>{&quot;location&quot;:&quot;India&quot;}</bodyContent>
+          <headers>
+            <param name="Content-Type" value=" application/json" type="HEADER" dataType="String" />
+          </headers>
+        </request>
+      </historyItem>
+      <historyItem>
+        <option name="timestamp" value="1789833579956" />
+        <request method="POST" url="http://localhost:8080/api/enrich">
+          <bodyContent>{&quot;location&quot;:&quot;London&quot;}</bodyContent>
+          <headers>
+            <param name="Content-Type" value=" application/json" type="HEADER" dataType="String" />
+          </headers>
+        </request>
+      </historyItem>
+      <historyItem>
+        <option name="timestamp" value="1789833528719" />
+        <request method="POST" url="http://localhost:8080/api/enrich">
+          <bodyContent>'{&quot;location&quot;:&quot;London&quot;}</bodyContent>
+          <headers>
+            <param name="Content-Type" value="application/json" type="HEADER" dataType="String" />
+          </headers>
+        </request>
+      </historyItem>
+      <historyItem>
+        <option name="timestamp" value="1789833412342" />
+        <request method="POST" url="http://localhost:8080/api/enrich">
+          <bodyContent>'{&quot;location&quot;:&quot;London&quot;}</bodyContent>
+        </request>
+      </historyItem>
+      <historyItem>
+        <option name="timestamp" value="1789833369788" />
+        <request method="POST" url="http://localhost:8080/api/enrich">
+          <bodyContent>'{&quot;location&quot;:&quot;London&quot;}</bodyContent>
+        </request>
+      </historyItem>
+    </items>
+  </component>
+</project>
